@@ -8,3 +8,4 @@ For a long time, medical experts did not consider that the stress that an indivi
 
 Read the literature review [here!](files/Trauma_Epigen_LitRev.pdf) 
 
+NOTE FOR ERICO: I cannot include my dashboard because it is not knitting. The reason seems to be that my knitr and rmarkdown packages are outdated. I have been trying to update them for a while, but they are not cooperating. Going to keep trying!
