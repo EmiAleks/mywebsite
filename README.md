@@ -1,22 +1,11 @@
 # mywebsite
 
-### Render the web site (RStudio)
-
-- [ ] 2. Render the web site locally by clicking the "Build" tap on the right and then "Render Website".
-
-- [ ] 3. Use `browseURL("docs/index.html")` to view your site locally (or just open `docs/index.html` in a browser).
-
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
 ### Next steps
 
-- Add content to `index.qmd` as desired.
 
 - Add content to `projects.qmd` as desired.
 
-- Change the photo in the `img` folder to your photo.
 
 - Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
 

@@ -2,8 +2,9 @@
 title: "Projects"
 ---
 
-## Project 1
+## The Intergenerational Transmission of Parental Stress and Trauma Onto Offspring
 
-## Project 2
+For a long time, medical experts did not consider that the stress that an individual went through could impact their genetic makeup -- let alone that of their children. However, relatively recent studies show that not only can severe stress impact genetics, its effects can even last throughout multiple generations, even when the original stressor is long gone. This literature review dives into the studies that prove that parental stress can impact the genetic makeup of their offspring.
 
-## Project 3
+Read the literature review [here!](docs/Trauma_Epigen_LitRev.pdf) 
+

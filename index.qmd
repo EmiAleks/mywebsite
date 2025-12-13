@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profile.jpg
 ---
 
 :::{#me}
@@ -18,6 +18,8 @@ In 2024, I earned my Dual Bachelor's Degree in Linguistics and Psychology from U
 ## Experience
 Currently, I am assisting the Mathematics and Statistics Department with a variety of needs -- administrative, financial, technological, and data-related.
 Previously, I had worked for the Speech, Language and Hearing Sciences Department as a Research Recruiter and Coordinator. I had also been a Research Assistant at the NCAP Lab in the Psychology Department, where I completed my honors thesis on phonological error comprehension in monolingual and multilingual participants. Additionally, I spent time at the Computational Sentence Processing Lab in the UMass Linguistics Department, the marketing team at Language Connections in Brighton, and the Sleep and Circadian Rhythms Data Analysis team at Brigham and Womens Hospital in Boston.
+
+Check out my [CV](docs/lays-barbecue.png) to learn more about my professional experiences!
 
 :::
 
